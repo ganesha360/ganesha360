@@ -8,7 +8,8 @@
 [![Visits Badge](https://badges.pufler.dev/visits/ragu-123/ragu-123)](https://badges.pufler.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ragunath?style=social)](https://twitter.com/ragunath)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aspiring%20AI%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Transforming%20Ideas%20into%20Intelligent%20Solutions&descAlignY=55&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Aspiring%20AI%20Engineer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Innovating%20with%20Intelligence&descAlignY=60&descAlign=50
+)
 
 <p>
   <a href="mailto:ragunathravi73@gmail.com">

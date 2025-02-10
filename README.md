@@ -1,9 +1,8 @@
 <div align="center">
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=AI%20%26%20ML%20Enthusiast&fontSize=40&fontAlignY=50)
+
 
   
 # 🚀 GANESH R
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ganesha360&theme=tokyonight)](https://git.io/streak-stats)
 ### Aspiring AI Engineer
 
 [![Years Badge](https://badges.pufler.dev/years/ganesha360)](https://badges.pufler.dev)

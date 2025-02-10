@@ -3,7 +3,7 @@
 # 🚀 GANESH R
 ### Aspiring AI Engineer
 
-[![Years Badge](https://badges.pufler.dev/years/ragu360)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/ganesha360)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/ragu-123)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/ragu-123/ragu-123)](https://badges.pufler.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ragunath?style=social)](https://twitter.com/ragunath)

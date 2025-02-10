@@ -1,60 +1,84 @@
-## 🚀 Ganesh R | AI & ML Enthusiast
-
 <div align="center">
+  
+# 🚀 GANESH R
+### Aspiring AI Engineer
 
-![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=AI%20%26%20ML%20Enthusiast&fontSize=40&fontAlignY=50)
+[![Years Badge](https://badges.pufler.dev/years/ganesha360)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ganesha360)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/ragu-123/ragu-123)](https://badges.pufler.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ragunath?style=social)](https://twitter.com/ragunath)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ganesha360&theme=tokyonight)](https://git.io/streak-stats)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aspiring%20AI%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Transforming%20Ideas%20into%20Intelligent%20Solutions&descAlignY=55&descAlign=50)
 
-### 📧 Connect with Me
+<p>
+  <a href="mailto:ragunathravi73@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="www.linkedin.com/in/ragunath-r-a2a580247">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+ <a href="https://ragu-123.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ganesh-r/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://ganesha360.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ganeshar@gmail.com)
-
-![Profile Image](https://github.com/ganesha360.png)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&center=true&vCenter=true&width=500&lines=AI+Engineer;ML+Researcher;Computer+Vision+Specialist;NLP+Practitioner)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer;Machine+Learning+Researcher;Computer+Vision+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
+</p>
 
 </div>
 
 ## 🎯 About Me
+Passionate AI Engineer specializing in Natural language processing and computer vision, with a strong focus on developing innovative solutions for real-world problems. Currently pursuing B.Tech in AI & ML at Saveetha Engineering College.
 
-Innovative AI Engineer with a passion for solving complex real-world problems through AI & ML. Pursuing B.Tech in AI & ML at Saveetha Engineering College.
-
-## 🛠️ Technical Skills
+## 💻 Technical Stack
 
 ```mermaid
-graph TD;
-    A[AI & ML] -->|Deep Learning| B(PyTorch & TensorFlow);
-    A -->|Computer Vision| C(OpenCV & YOLO);
-    A -->|NLP| D(Transformers & BERT);
-    A -->|Programming| E(Python, Java, C++);
-    A -->|Cloud & MLOps| F(AWS & Docker);
+mindmap
+  root((Tech Stack))
+    AI/ML
+      Deep Learning
+        PyTorch
+        TensorFlow
+      Computer Vision
+        OpenCV
+        YOLO
+      NLP
+        Transformers
+        BERT
+    Programming
+      Python
+      Java
+      C/C++
+    Cloud/MLOps
+      AWS
+      
 ```
 
 ## 🚀 Featured Projects
 
-### **Space Debris Tracking System**
-*Advanced AI for tracking space debris.*
+### 1. Space Debris Tracking System
+*An advanced computer vision system for tracking space debris*
 
-- 📊 96.5% Detection Accuracy  
-- 🎯 94.2% Tracking Precision  
-- ⚡ 30 FPS Real-time Processing  
+- 📊 96.5% Detection Accuracy
+- 🎯 94.2% Tracking Precision
+- ⚡ 30 FPS Real-time Processing
+- 🔍 10px Minimum Object Detection Size
 
 ```mermaid
-graph LR;
-    Input[Video Feed] --> YOLO[YOLOv5 Detection];
-    YOLO --> Kalman[Kalman Filter for Tracking];
-    Kalman --> Visualization[Trajectory Prediction & Visualization];
+graph LR
+    A[Input Video] --> B[YOLOv5 Detection]
+    B --> C[Kalman Filter]
+    C --> D[Trajectory Prediction]
+    D --> E[Visualization]
 ```
 
-### **SignLinformer: Text to Gesture Translation**
-*Innovative transformer-based model for sign language translation.*
+### 2. SignLinformer: Text to Gesture Translation
+*Novel transformer architecture for sign language translation*
 
 ```mermaid
 gantt
-    title Project Timeline
+    title Development Timeline
     dateFormat  YYYY-MM-DD
     section Research
     Literature Review     :2024-01-01, 30d
@@ -65,18 +89,54 @@ gantt
     Paper Writing        :2024-06-15, 45d
 ```
 
+## 📊 Skills Matrix
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-★★★★★-yellow?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-★★★★☆-orange?style=flat-square&logo=java&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-★★★☆☆-blue?style=flat-square&logo=cplusplus&logoColor=white">
+    </td>
+    <td>
+      <div class="progress">
+        <div class="progress-bar" style="width: 90%; background: linear-gradient(to right, #4CAF50, #2196F3);"></div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>AI/ML</td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-★★★★★-red?style=flat-square&logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-★★★★☆-orange?style=flat-square&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenCV-★★★★☆-green?style=flat-square&logo=opencv&logoColor=white">
+    </td>
+    <td>
+      <div class="progress">
+        <div class="progress-bar" style="width: 95%; background: linear-gradient(to right, #F44336, #2196F3);"></div>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesha360&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesha360&layout=compact&theme=tokyonight" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragu-123&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragu-123&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ## 🏆 Achievements
 
 ```mermaid
 timeline
-    title Career Highlights
+    title Career Milestones
     2022 : Koselay Award : Academic Excellence
     2024 : IBM Datathon : Top Performer
     2024 : Research Paper : SignLinformer
@@ -85,30 +145,33 @@ timeline
 
 ## 🎓 Education
 
-- **B.Tech in AI & ML** (2022-2026)  
-  - Saveetha Engineering College  
-  - GPA: 8.00/10.00  
+- **B.Tech in AI & ML** (2022-2026)
+  - Saveetha Engineering College
+  - GPA: 8.00/10.00
 
-### 📜 Certifications
-- 🏅 Machine Translation (Coursera, 2025)  
-- 🏅 Computer Vision (Coursera, 2025)  
+### Certifications
+- 🏅 Machine Translation (Coursera, 2025)
+- 🏅 Computer Vision (Coursera, 2025)
+
 
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://calendly.com/ganesha360">
-    <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar"/>
+  <a href="https://calendly.com/ragunath">
+    <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ganesh-r/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <a href="www.linkedin.com/in/ragunath-r-a2a580247">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ganeshar@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:ragunathravi73@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fragunath&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 </div>

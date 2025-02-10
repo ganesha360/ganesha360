@@ -14,7 +14,7 @@
 
 
 <p>
-  <a href="mailto:ragunathravi73@gmail.com">
+  <a href="mailto:ganeshravi360@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="www.linkedin.com/in/ragunath-r-a2a580247">

@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Ragunath R 
+# 🚀 GANESH R
 ### Aspiring AI Engineer
 
 [![Years Badge](https://badges.pufler.dev/years/ragu-123)](https://badges.pufler.dev)

@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer;Machine+Learning+Researcher;Computer+Vision+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer;Machine+Learning+Researcher;Flutter Developer;Deep+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 </div>

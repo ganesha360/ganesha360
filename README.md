@@ -10,7 +10,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/ganesha360/ganesha360)](https://badges.pufler.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ragunath?style=social)](https://twitter.com/ganesh)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:42A5F5&height=250&section=header&text=Aspiring%20AI%20Engineer&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Innovating%20with%20Intelligence&descAlignY=65&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Aspiring%20AI%20Engineer&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Innovating%20with%20Intelligence&descAlignY=65&descAlign=50)
 
 
 <p>

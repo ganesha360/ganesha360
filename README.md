@@ -3,6 +3,7 @@
 
   
 # 🚀 GANESH R
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ganesha360&theme=tokyonight)](https://git.io/streak-stats)
 ### Aspiring AI Engineer
 
 [![Years Badge](https://badges.pufler.dev/years/ganesha360)](https://badges.pufler.dev)

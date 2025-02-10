@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  
+
 # 🚀 GANESH R
 ### Aspiring AI Engineer
 

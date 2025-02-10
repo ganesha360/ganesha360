@@ -1,4 +1,6 @@
 <div align="center">
+![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=AI%20%26%20ML%20Enthusiast&fontSize=40&fontAlignY=50)
+
   
 # 🚀 GANESH R
 ### Aspiring AI Engineer

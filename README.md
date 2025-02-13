@@ -150,11 +150,13 @@ timeline
 
 - **B.Tech in AI & ML** (2022-2026)
   - Saveetha Engineering College
-  - GPA: 8.00/10.00
+  - GPA: 7.80/10.00
 
 ### Certifications
-- 🏅 Machine Translation (Coursera, 2025)
-- 🏅 Computer Vision (Coursera, 2025)
+- 🏅 Cloud Computing (NPTEL, 2024)
+- 🏅 Introduction to IOT (NPTEL, 2024)
+- 🏅 Introduction to Public Speaking (Coursera, 2025)
+- 🏅 Supervised Learning (Coursera, 2025)
 
 
 ## 🤝 Let's Connect!
@@ -176,5 +178,5 @@ timeline
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
-  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fragunath&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fganesh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
 </div>

@@ -186,4 +186,7 @@ timeline
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=ganesh&color=2193b0&label=Profile%20Views&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ganesh&color=2193b0&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
+</p>
+

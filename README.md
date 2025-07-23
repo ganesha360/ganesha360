@@ -15,7 +15,7 @@
   <a href="mailto:ganeshravi360@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ganesha-ravi19">
+  <a href="https://www.linkedin.com/in/ganesharavi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
  <a href="https://ragu-123.github.io/portfolio/">
@@ -138,7 +138,7 @@ gantt
 ```mermaid
 timeline
     title Career Milestones
-    2022 : Koselay Award : Academic Excellence
+    2020 : NCC : Corp Training
     2024 : IBM Datathon : Top Performer
     2024 : Research Paper : SignLinformer
     2025 : IIT Madras : Top 50 Teams
@@ -160,13 +160,11 @@ timeline
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://calendly.com/ragunath">
-    <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/>
-  </a>
-  <a href="www.linkedin.com/in/ragunath-r-a2a580247">
+  
+  <a href="www.linkedin.com/in/ganesharavi">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ragunathravi73@gmail.com">
+  <a href="mailto:ganeshravi360@gmail.com">
     <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>

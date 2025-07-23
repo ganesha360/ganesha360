@@ -161,7 +161,7 @@ timeline
 
 <div align="center">
   
-  <a href="www.linkedin.com/in/ganesharavi">
+  <a href="www.https://linkedin.com/in/ganesharavi/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ganeshravi360@gmail.com">

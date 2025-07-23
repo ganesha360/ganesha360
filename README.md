@@ -8,7 +8,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ganesh_360?style=social)](https://twitter.com/ganesh_360)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Aspiring%20AI%20Engineer&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Innovating%20with%20Intelligence&descAlignY=65&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:485563,100:29323c&height=230&section=header&text=Aspiring%20AI%20Engineer&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Innovating%20with%20Intelligence&descAlignY=65&descAlign=50)
+
 
 
 

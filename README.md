@@ -141,7 +141,7 @@ timeline
     2020 : NCC : Corp Training
     2024 : IBM Datathon : Top Performer
     2024 : Research Paper : SignLinformer
-    2025 : IIT Madras : Top 50 Teams
+    
 ```
 
 ## 🎓 Education
